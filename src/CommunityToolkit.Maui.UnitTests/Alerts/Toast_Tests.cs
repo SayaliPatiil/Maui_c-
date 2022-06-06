@@ -1,6 +1,8 @@
 ﻿using System.ComponentModel;
 using CommunityToolkit.Maui.Alerts;
 using CommunityToolkit.Maui.Core;
+using CommunityToolkit.Maui.Alerts;
+using CommunityToolkit.Maui.Core;
 using FluentAssertions;
 using Xunit;
 
